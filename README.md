@@ -1,6 +1,6 @@
 # Markdown
 
-#Headers
+# Headers
 
 # H1
 ## H2
@@ -18,7 +18,7 @@ Alt-H2
 ------
 
 
-#Emphasis 
+# Emphasis 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -29,7 +29,7 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 
-#Lists
+# Lists
 
 1. First ordered list item
 2. Another item
@@ -45,7 +45,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + Or pluses
 
 
-#Links
+# Links
 
 [I'm an inline-style link](https://www.google.com)
 
@@ -66,7 +66,7 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 
-#Images
+# Images
 
 Here's our logo (hover to see the title text):
 
@@ -108,7 +108,7 @@ No language indicated, so no syntax highlighting in Markdown Here (varies on Git
 But let's throw in a <b>tag</b>.
 
 
-#Tables
+# Tables
 
 Colons can be used to align columns.
 
@@ -126,7 +126,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-#Blockquotes
+# Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
@@ -136,7 +136,7 @@ Quote break.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 
-#Inline HTML
+# Inline HTML
 
 <dl>
   <dt>Definition list</dt>
@@ -174,14 +174,14 @@ This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 
-#Youtube Videos
+# Youtube Videos
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-#TeX Mathematical Formulae
+# TeX Mathematical Formulae
 
 $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
