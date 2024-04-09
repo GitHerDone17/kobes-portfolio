@@ -1,8 +1,7 @@
 # Welcome To My Portfolio
 
 #### Coming Soon...
-
-
-*Contact* <br>
+<br> <br>
+_Contact_ <br>
 email: {{ site.email }} <br>
 phone: {{ site.phone }}
