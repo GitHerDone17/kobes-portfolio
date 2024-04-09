@@ -3,6 +3,6 @@
 #### Coming Soon...
 
 
-###### Contact 
+Contact 
 email: (mailto:{{ site.email }})
 phone: {{ site.phone }}
