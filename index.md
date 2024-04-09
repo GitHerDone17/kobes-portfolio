@@ -4,5 +4,5 @@
 
 
 Contact 
-email: (mailto:{{ site.email }})
+email: {{ site.email }} <br>
 phone: {{ site.phone }}
