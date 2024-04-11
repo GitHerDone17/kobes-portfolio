@@ -15,7 +15,6 @@ Mechanical Template
 <br> <br>
 
 
-**Contact** <br> 
-email: {{ site.email }} <br>
-phone: {{ site.phone }}
-
+**Contact** 
+ <br> 
+email: {{ site.email }} <br >phone: {{ site.phone }} <br> linkedin:
