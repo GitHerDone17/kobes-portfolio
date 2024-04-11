@@ -14,7 +14,8 @@ Mechanical Template
 [](https://githerdone17.github.io/kobes-portfolio/Projects/Project3)
 <br> <br>
 
-
+<p align= "center">
 **Contact** <br> 
 email: {{ site.email }} <br>
 phone: {{ site.phone }}
+</p>
