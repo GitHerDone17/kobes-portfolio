@@ -17,4 +17,4 @@ Mechanical Template
 
 **Contact** 
  <br> 
-email: {{ site.email }} <br >phone: {{ site.phone }} <br> linkedin:
+email: {{ site.email }} <br> phone: {{ site.phone }} <br> linkedin:
