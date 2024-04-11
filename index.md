@@ -16,6 +16,11 @@ Select a Resume template to view a tailored resume. Likewise, select a project f
 
 **Contact** 
  <br> 
-email: {{ site.email }} &emsp; &emsp; &emsp; &emsp;
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
+{{ site.email }} &emsp; &emsp; &emsp; &emsp;
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 phone: {{ site.phone }}  &emsp; &emsp; &emsp; &emsp;
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 profile: [linkedin](http://www.linkedin.com/in/kobe-barrette-648071262) 
