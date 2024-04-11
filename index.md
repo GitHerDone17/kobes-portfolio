@@ -18,4 +18,4 @@ Select a Resume template to view a tailored resume. Likewise, select a project f
  <br> 
 email: {{ site.email }} &emsp; &emsp; &emsp; &emsp;
 phone: {{ site.phone }}  &emsp; &emsp; &emsp; &emsp;
-linkedin:
+profile: [linkedin](http://www.linkedin.com/in/kobe-barrette-648071262) 
