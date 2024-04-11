@@ -16,4 +16,4 @@ Select a Resume template to view a tailored resume. Likewise, select a project f
 
 **Contact** 
  <br> <br>
-<img src="https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.png" alt="drawing" width="20"/> {{ site.email }} &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://githerdone17.github.io/kobes-portfolio/Images/Phone_icon.png" alt="drawing" width="20"/> {{ site.phone }}  &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://githerdone17.github.io/kobes-portfolio/Images/Linkedin_icon.png" alt="drawing" width="20"/> [linkedin](http://www.linkedin.com/in/kobe-barrette-648071262) 
+<img src="https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.png" alt="drawing" width="20"/> {{ site.email }} &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://githerdone17.github.io/kobes-portfolio/Images/Phone_icon.png" alt="drawing" width="20"/> {{ site.phone }}  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://githerdone17.github.io/kobes-portfolio/Images/Linkedin_icon.png" alt="drawing" width="20"/> [linkedin](http://www.linkedin.com/in/kobe-barrette-648071262) 
