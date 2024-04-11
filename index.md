@@ -1,11 +1,12 @@
 # Welcome To My Portfolio
 
-#### In Progress...
+Select a Resume template to view my tailored resume. Likewise, select a project for an overview of one of my projects. 
+
 <br> <br>
 **Resumes** <br>
-Computer Science Template <br>
-Electrical Template <br>
-Mechanical Template 
+[Computer Science Template]() <br>
+[Electrical Template]() <br>
+[Mechanical Template]() 
 <br> <br>
 
 **Projects** <br>
