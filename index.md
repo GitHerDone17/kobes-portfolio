@@ -16,10 +16,10 @@ Select a Resume template to view a tailored resume. Likewise, select a project f
 
 **Contact** 
  <br> 
-![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.jpg "Email Icon") 
+![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.png "Email Icon") 
 {{ site.email }} &emsp; &emsp; &emsp; &emsp;
 
-![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Phone_icon.png) "Phone Icon")
+![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Phone_icon.jpg) "Phone Icon")
 {{ site.phone }}  &emsp; &emsp; &emsp; &emsp;
 
 ![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Linked_icon.jpg) "Linkedin Icon")
