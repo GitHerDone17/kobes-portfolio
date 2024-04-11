@@ -22,5 +22,5 @@ Select a Resume template to view a tailored resume. Likewise, select a project f
 ![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Phone_icon.jpg "Phone Icon")
 {{ site.phone }}  &emsp; &emsp; &emsp; &emsp;
 
-![alt text](https://githerdone17.github.io/kobes-portfolio/Images/Linkedin_icon.jpg "LinkedIn Icon")
+![alt text](https://githerdone17.github.io/kobes-portfolio/Images/LinkedIn_icon.jpg "Linkedin Icon")
 [linkedin](http://www.linkedin.com/in/kobe-barrette-648071262) 
