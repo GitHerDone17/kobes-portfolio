@@ -4,9 +4,9 @@ Select a Resume template to view my tailored resume. Likewise, select a project 
 
 <br> <br>
 **Resumes** <br>
-[Computer Science Template]() <br>
-[Electrical Template]() <br>
-[Mechanical Template]() 
+[Computer Science Template](https://githerdone17.github.io/kobes-portfolio/Resumes/CS_Resume.pdf) <br>
+[Electrical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Mechanical_Resume.pdf) <br>
+[Mechanical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Electrical_Resume.pdf) 
 <br> <br>
 
 **Projects** <br>
