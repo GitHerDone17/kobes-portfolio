@@ -1,6 +1,6 @@
 # Welcome To My Portfolio
 
-Select a Resume template to view my tailored resume. Likewise, select a project for an overview of one of my projects. 
+Select a Resume template to view a tailored resume. Likewise, select a project for an overview. 
 
 <br> <br>
 **Resumes** <br>
