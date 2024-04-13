@@ -8,9 +8,9 @@ We created a video game inspired Kinder Maxi toy. The toy was based from the Pla
 I led the 3D design portion of the project, utilizing Solidworks to create/assemble the components for the toy. Additionally, I created an animation for showcasing. 
 <br> <br> 
 ### Our Toy &emsp; &emsp; &emsp; &emsp; &emsp; Video Game Version  
+&emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://githerdone17.github.io/kobes-portfolio/Images/Toy_instructions.png" alt="drawing" width="400"/>
 <br> <br> 
 ### Animation 
-<img src="https://githerdone17.github.io/kobes-portfolio/Images/Assem_Animation.mp4" alt="drawing" width="400"/>
 <br> <br>
 ### Assembly Guide Illustration 
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Toy_instructions.png" alt="drawing" width="400"/>
