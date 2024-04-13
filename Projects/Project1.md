@@ -10,6 +10,7 @@ I led the 3D design portion of the project, utilizing Solidworks to create/assem
 ### Our Toy &emsp; &emsp; &emsp; &emsp; &emsp; Video Game Version  
 <br> <br> 
 ### Animation 
+<img src="https://githerdone17.github.io/kobes-portfolio/Images/Assem_Animation.mp4" alt="drawing" width="400"/>
 <br> <br>
 ### Assembly Guide Illustration 
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Toy_instructions.png" alt="drawing" width="400"/>
