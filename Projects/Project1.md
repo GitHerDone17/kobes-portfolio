@@ -12,6 +12,6 @@ I led the 3D design portion of the project, utilizing Solidworks to create/assem
 ### Animation 
 <br> <br>
 ### Assembly Guide Illustration 
-<img src="https://githerdone17.github.io/kobes-portfolio/Images/Toy_instructions.png" alt="drawing" width="50"/>
+<img src="https://githerdone17.github.io/kobes-portfolio/Images/Toy_instructions.png" alt="drawing" width="400"/>
 <br> <br> <br>
 [back](https://githerdone17.github.io/kobes-portfolio/)
