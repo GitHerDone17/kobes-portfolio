@@ -2,7 +2,7 @@
 <br> 
 
 ### Overview 
-We developed an encryption/decryption tool in C. The tool was capable of encrypting text files with an encryption key defined using a hexadecimal algorithm. The tool would generate a ".something" file that could then be deciphered using the deryption tool.
+We developed an encryption/decryption tool in C. The tool was capable of encrypting text files with an encryption key defined using a hexadecimal algorithm. The tool would generate a ".crp" file that could then be deciphered using the deryption tool.
 <br><br>
 
 ### My Role
