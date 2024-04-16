@@ -8,7 +8,7 @@ We developed an encryption/decryption tool in C. The tool was capable of encrypt
 ### My Role
 I led the developement portion of the team. I was responsible for writing all of the code to implement the functionality. I also handled testing for quality assurance. 
 <br> <br> 
-### Sample Text File &emsp; ---> &emsp; After encryption 
+### Sample Text File &emsp; ---> &emsp; After Encryption 
 <br> <br> 
 ### The Code
 
