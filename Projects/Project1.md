@@ -11,8 +11,7 @@ I led the 3D design portion of the project, utilizing Solidworks to create/assem
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/our_Pshooter.png" alt="drawing" width="150"/> &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://githerdone17.github.io/kobes-portfolio/Images/Actual_Pshooter.png" alt="drawing" width="150"/>
 <br> <br> 
 ### Animation 
-<video src="https://githerdone17.github.io/kobes-portfolio/Images/Assem_Animation.mp4" controls="controls" style="max-width: 500px;">
-</video>
+[Click to Watch Video](https://github.com/GitHerDone17/kobes-portfolio/assets/116814632/5705c279-c763-442c-b163-bd01f71e2f34)
 <br> <br>
 
 ### Assembly Guide Illustration 
