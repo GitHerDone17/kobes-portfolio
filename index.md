@@ -16,6 +16,6 @@ Select a Resume template to view a tailored resume. Likewise, select a project t
 
 **Contact** 
  <br> <br>
-<img src="https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.png" alt="drawing" width="20"/> [kbarre05\@uoguelph.com](mailto:{{site.email}}) <br> 
+<img src="https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.png" alt="drawing" width="20"/> [kbarre05\@uoguelph.ca](mailto:{{site.email}}) <br> 
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Phone_icon.png" alt="drawing" width="20"/> {{ site.phone }}  <br> 
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Linkedin_icon.png" alt="drawing" width="20"/> [linkedin](http://www.linkedin.com/in/kobe-barrette-648071262) 
