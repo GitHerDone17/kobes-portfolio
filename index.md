@@ -12,7 +12,7 @@ Select a Resume template to view a tailored resume. Likewise, select a project t
 [3D-Printed Kinder Toy](https://githerdone17.github.io/kobes-portfolio/Projects/Project1) <br>
 [Encryption/Decryption Tool](https://githerdone17.github.io/kobes-portfolio/Projects/Project2) <br>
 [](https://githerdone17.github.io/kobes-portfolio/Projects/Project3)
-<br>
+<br> <br>
 **Contact** 
  <br> <br>
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Email_icon.png" alt="drawing" width="20"/> [kbarre05@uoguelph.ca](mailto:{{site.email}}) <br> 
