@@ -1,7 +1,6 @@
 # Welcome To My Portfolio
 <br>
 Select a Resume template to view a tailored resume. Likewise, select a project to overview some of my work. 
-
 <br> <br>
 **Resumes** <br> 
 [Computer Science Template](https://githerdone17.github.io/kobes-portfolio/Resumes/CS_Resume.pdf) <br>
