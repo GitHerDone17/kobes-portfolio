@@ -11,7 +11,7 @@ I led the 3D design portion of the project, utilizing Solidworks to create/assem
  <img src="https://githerdone17.github.io/kobes-portfolio/Images/PShooter_Printed.png" alt="drawing" width="80"/> <img src="https://githerdone17.github.io/kobes-portfolio/Images/our_Pshooter.png" alt="drawing" width="150"/>
 <br> Printed &emsp; &emsp; Modelled
 <br>
- ### Video Game Version  
+### Video Game Version  
  <br>
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Actual_Pshooter.png" alt="drawing" width="150"/> <br>
 <br> <br> 
