@@ -4,6 +4,7 @@
 ### Overview 
 <p align=justify>
 We created a video game inspired Kinder Maxi toy. The toy was based from the Plants Vs Zombie video game and is refered to as the 'Peashooter'. It was composed of 5 pieces and could be intuitively assembled/disassembled by kids of all ages. It had a locking mechanism to store potential energy, when released it launched a small 'pea' over 2 meters with laser precision. 
+<\p>
  <br><br>
 
 ### My Role
