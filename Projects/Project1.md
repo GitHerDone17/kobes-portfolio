@@ -12,7 +12,6 @@ I led the 3D design portion of the project, utilizing Solidworks to create/assem
 <br> Printed &emsp; &emsp; Modelled
 <br>
 ### Video Game Version  
- <br>
 <img src="https://githerdone17.github.io/kobes-portfolio/Images/Actual_Pshooter.png" alt="drawing" width="150"/> <br>
 <br> <br> 
 
