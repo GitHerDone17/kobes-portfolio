@@ -8,8 +8,8 @@ We developed an encryption/decryption tool in C. The tool was capable of encrypt
 ### My Role
 I led the developement portion of the team. I was responsible for writing all of the code to implement the functionality. I also handled testing for quality assurance. 
 <br> <br> 
-### Sample Text File &emsp; ---> &emsp; After Encryption 
-[Regular Text](https://githerdone17.github.io/kobes-portfolio/Files/Regular_Text.txt) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[Encrypted Text](https://githerdone17.github.io/kobes-portfolio/Files/Encrypted_Text.crp)
+### Sample Text File  ---> After Encryption 
+[Regular Text](https://githerdone17.github.io/kobes-portfolio/Files/Regular_Text.txt) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[Encrypted Text](https://githerdone17.github.io/kobes-portfolio/Files/Encrypted_Text.crp)
 <br> <br> 
 ### The Code
 ```
