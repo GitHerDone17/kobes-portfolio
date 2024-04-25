@@ -2,10 +2,7 @@
 <br>
 Select a Resume template to view a tailored resume. Likewise, select a project to overview some of my work.
 
-<br> <br>
-| test| test2| 
-|-----| ----|
-| hello| goodbye|
+
 
 <br> <br>
 **Resumes** <br> 
