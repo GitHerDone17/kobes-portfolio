@@ -3,6 +3,11 @@
 Select a Resume template to view a tailored resume. Likewise, select a project to overview some of my work.
 
 <br> <br>
+| test| test2| 
+|-----| ----|
+| hello| goodbye|
+
+<br> <br>
 **Resumes** <br> 
 [Computer Science Template](https://githerdone17.github.io/kobes-portfolio/Resumes/CS_Resume.pdf) <br>
 [Electrical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Mechanical_Resume.pdf) <br>
