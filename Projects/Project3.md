@@ -13,4 +13,5 @@ Upon adding all of the desired standards to the material list, the user can then
 
 The standards are stored as key/value pairs in a VBA dictionnary. Likewise, all of the button functionality and background work is handled through VBA modules. 
 <br> <br> 
-[USF Master List Builder](https://githerdone17.github.io/kobes-portfolio/Files/USF_Master_List_Builder.xlsm)
+[![Download](https://img.shields.io/badge/Download-Excel%20File-blue)](kobes-portfolio/Files/USF_Master_List_Builder.xlsm)
+
