@@ -16,7 +16,7 @@ The standards are stored as key/value pairs in a VBA dictionnary. Likewise, all 
 <br> <br> 
 ### Sample Master List:
 Excel Interface: 
- <img src="https://githerdone17.github.io/kobes-portfolio/Images/Sample_List_Interface.png" alt="drawing" width="80"/> 
+ <img src="https://githerdone17.github.io/kobes-portfolio/Images/Sample_List_Interface.png" alt="drawing" /> 
 <br>
 Generated PDF: 
 
