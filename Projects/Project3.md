@@ -4,7 +4,7 @@
 ### Overview 
 I developed a tool capable of helping utility service engineers build a master parts sheet for the construction of new power lines. The tool follows the Utility Standards Forum (USF), which is a guide on constructing power line assemblies to the proper standard. It conforms with the standards involved in constructing a 28kV line.  
 <br>
-<br>
+
 
 ### How it works:
 
