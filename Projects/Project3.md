@@ -19,7 +19,7 @@ Excel Interface:
  <img src="https://githerdone17.github.io/kobes-portfolio/Images/Sample_List_Interface.png" alt="drawing" /> 
 <br>
 Generated PDF: 
-
+[PDF of Sample List](https://githerdone17.github.io/kobes-portfolio/Files/Regular_Text.txt)
 ##### Download the excel tool: 
 
 [![Download](https://img.shields.io/badge/Download-Excel%20File-blue)](https://githerdone17.github.io/kobes-portfolio/Files/USF_Master_List_Builder.xlsm)
