@@ -7,8 +7,8 @@ Select a Resume template to view a tailored resume. Likewise, select a project t
 <br> <br>
 **Resumes** <br> 
 [Computer Science Template](https://githerdone17.github.io/kobes-portfolio/Resumes/CS_Resume.pdf) <br>
-[Electrical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Mechanical_Resume.pdf) <br>
-[Mechanical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Electrical_Resume.pdf) 
+[Electrical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Electrical_Resume.pdf) <br>
+[Mechanical Template](https://githerdone17.github.io/kobes-portfolio/Resumes/Mechanical_Resume.pdf) 
 <br> <br>
 **Projects** <br>
 [3D-Printed Kinder Toy](https://githerdone17.github.io/kobes-portfolio/Projects/Project1) <br>
