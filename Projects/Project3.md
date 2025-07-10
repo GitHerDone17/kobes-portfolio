@@ -1,29 +1,69 @@
-# USF Master Parts Sheet Builder
-<br> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>USF Master Parts Sheet Builder</title>
 
-### Overview 
-I developed a tool capable of helping utility service engineers build a master parts sheet for the construction of new power lines. The tool follows the Utility Standards Forum (USF), which is a guide on constructing power line assemblies to the proper standard. It conforms with the standards involved in constructing a 28kV line.  
-<br>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet" />
 
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="https://githerdone17.github.io/kobes-portfolio/assets/css/custom.css" />
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>USF Master Parts Sheet Builder</h1>
+    </header>
 
-### How it works:
+    <main>
+      <div class="guide-text">
+        <h3>Overview</h3>
+        <p>
+          I developed a tool capable of helping utility service engineers build a master parts sheet for the construction of new power lines. The tool follows the Utility Standards Forum (USF), which is a guide on constructing power line assemblies to the proper standard. It conforms with the standards involved in constructing a 28kV line.
+        </p>
+      </div>
 
-The 'input' area is where the user selects the required standards and quantities from the dropdown menus and hits 'add' to have them added to the parts list. 
+      <div class="guide-text">
+        <h3>How it works:</h3>
+        <p>
+          The "input" area is where the user selects the required standards and quantities from the dropdown menus and hits "add" to have them added to the parts list.
+          <br><br>
+          Upon adding all of the desired standards to the material list, the user can then click "generate pdf" to export the list and save it as a PDF. The "clear all" button resets the interface.
+          <br><br>
+          The standards are stored as key/value pairs in a VBA dictionary. Likewise, all button functionality and background logic is handled through VBA modules.
+        </p>
+      </div>
 
-Upon adding all of the desired standards to the material list, the user can then click 'generate pdf' to export the list and have it saved as a pdf file. The 'clear all' button will clear the lists and provide a clean slate for building a new parts list. 
+      <div class="project-section">
+        <h3>Sample Master List:</h3>
+        <p><strong>Excel Interface:</strong></p>
+        <img src="https://githerdone17.github.io/kobes-portfolio/Images/Sample_Excel_Interface.png" alt="Excel Interface Screenshot" style="max-width: 100%; height: auto;" />
+        <br><br>
+        <p><strong>Generated PDF:</strong></p>
+        <a href="https://githerdone17.github.io/kobes-portfolio/Files/Sample_List.pdf" target="_blank">PDF of Sample List</a>
+      </div>
 
-The standards are stored as key/value pairs in a VBA dictionnary. Likewise, all of the button functionality and background work is handled through VBA modules. 
-<br> <br> 
-### Sample Master List:
-Excel Interface: 
- <img src="https://githerdone17.github.io/kobes-portfolio/Images/Sample_Excel_Interface.png" alt="drawing" /> 
-<br>
-Generated PDF: 
-<br>
-[PDF of Sample List](https://githerdone17.github.io/kobes-portfolio/Files/Sample_List.pdf)
+      <div class="guide-text">
+        <h4>Download the Excel Tool:</h4>
+        <p>
+          <a href="https://githerdone17.github.io/kobes-portfolio/Files/USF_Master_List_Builder.xlsm" target="_blank">
+            <img src="https://img.shields.io/badge/Download-Excel%20File-blue" alt="Download Excel File" />
+          </a>
+        </p>
+      </div>
 
-##### Download the excel tool: 
+      <div class="guide-text">
+        <p>
+          <a href="https://githerdone17.github.io/kobes-portfolio/">&larr; Back to Portfolio</a>
+        </p>
+      </div>
+    </main>
 
-[![Download](https://img.shields.io/badge/Download-Excel%20File-blue)](https://githerdone17.github.io/kobes-portfolio/Files/USF_Master_List_Builder.xlsm)
-
-[back](https://githerdone17.github.io/kobes-portfolio/)
+    <footer>
+      <p>&copy; 2025 Kobe's Portfolio</p>
+    </footer>
+  </div>
+</body>
+</html>
