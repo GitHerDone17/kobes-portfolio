@@ -180,3 +180,25 @@ html, body {
   margin-top: 0.5rem;
   font-weight: 500;
 }
+
+footer {
+  background-color: #1e2a38;
+  color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.footer-contact p {
+  margin: 5px 0;
+}
+
+.footer-contact a {
+  color: #66ccff;
+  text-decoration: none;
+}
+
+.footer-contact a:hover {
+  text-decoration: underline;
+}
+
