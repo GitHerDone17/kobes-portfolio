@@ -119,3 +119,25 @@ html, body {
   margin-top: 30px; /* Space between header and container */
   padding: 10px 10px;
 }
+
+.back-button {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #2e3b4e;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 30px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  transition: background 0.3s ease;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.back-button:hover {
+  background-color: #3f5c7d;
+}
