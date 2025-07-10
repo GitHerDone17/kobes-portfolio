@@ -70,6 +70,20 @@ html, body {
   color: white;
 }
 
+.resume-section {
+  background: linear-gradient(135deg, #4d6a74, #7a9ca1); /* Cool gradient */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 40px 20px;
+  margin: 40px auto;
+  max-width: 1000px;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
 .guide-text {
   font-size: 1.1rem;
   text-align: center;
