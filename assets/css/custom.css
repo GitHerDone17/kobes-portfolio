@@ -9,11 +9,11 @@ body {
 /* Header Styling */
 header {
   background: linear-gradient(to right, #1e2a38, #3a4a5a); 
-  color: #f1f1f1; /* Light text for contrast */
+  color: #f1f1f1; 
   padding: 20px;
   text-align: center;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-  border-bottom: 2px solid #32e0c4; /* Light separator */
+  border-bottom: 2px solid #32e0c4; 
 }
 
 /* Main Title */
@@ -47,6 +47,20 @@ button {
 button:hover {
   background: linear-gradient(135deg, #32e0c4, #0d7377); 
   box-shadow: 0 0 10px #32e0c4
+}
+
+.button-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.button-row a button {
+  font-size: 0.9rem;
+  padding: 10px 18px;
+  white-space: nowrap;
 }
 
 html, body {
