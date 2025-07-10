@@ -58,7 +58,7 @@ html, body {
   box-sizing: border-box;
 }
 
-.button-section {
+.project-section {
   background: linear-gradient(135deg, #4d6a74, #7a9ca1); /* Cool gradient */
   background-size: cover;
   background-position: center;
@@ -83,6 +83,15 @@ html, body {
   text-align: center;
   color: white;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.section-title {
+  font-size: 2rem;
+  color: #f5f4f1;
+  margin: 40px auto 10px auto;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
 }
 
 .guide-text {
