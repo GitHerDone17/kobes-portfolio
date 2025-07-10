@@ -1,1 +1,94 @@
+/* Base Page Styling */
+body {
+  background: linear-gradient(to bottom, #655050, #cebaa2);
+  color: #f5f4f1; 
+  font-family: 'Arial', sans-serif; /* Clean and simple font */
+  text-align:center;
+}
 
+/* Header Styling */
+header {
+  background: linear-gradient(to right, #5580a0, #50697d); /* Richer, cooler contrast */
+  color: #e1dada; /* Light text for contrast */
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  border-bottom: 2px solid #cebaa2; /* Light separator */
+}
+
+/* Main Title */
+h1 {
+  color: #f5f4f1; /* white */
+  font-family: 'Pacifico';
+  font-size: 2.5rem; /* Make it bold and welcoming */
+}
+
+button {
+  background: linear-gradient(135deg, #849089, #e1dada);
+  color: white;
+  padding: 10px 20px;
+  margin: 0;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  max-width: 100%;
+  display: inline-block;
+  border: none;
+  outline: none;
+  width: auto; 
+  min-width: fit-content;
+  box-shadow: 0 0 1px transparent; /* Subpixel rendering fix */
+  transform: translateZ(0); /* Forces hardware acceleration */
+  will-change: transform; /* Prepares the browser to optimize */
+}
+
+button:hover {
+  background: linear-gradient(135deg, #e1dada, #849089); /* Reverse gradient */
+}
+
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.button-section {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 40px 20px;
+  margin: 40px auto;
+  max-width: 1000px;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+}
+
+.guide-text {
+  font-size: 1.1rem;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 1000px;
+  padding: 10px 20px;
+  color: #333;
+}
+
+.welcome-text {
+  font-size: 2.1rem;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 1000px;
+  padding: 10px 20px;
+  color: #333;
+}
+
+.main-flex {
+  margin-top: 30px; /* Space between header and container */
+  padding: 10px 10px;
+}
