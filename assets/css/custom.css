@@ -1,31 +1,31 @@
 /* Base Page Styling */
 body {
-  background: linear-gradient(to bottom, #655050, #cebaa2);
-  color: #f5f4f1; 
-  font-family: 'Arial', sans-serif; /* Clean and simple font */
+  background: linear-gradient(to bottom, #0f111a, #1e2a38);
+  color: #f1f1f1; 
+  font-family: 'Orbitron', sans-serif; 
   text-align:center;
 }
 
 /* Header Styling */
 header {
-  background: linear-gradient(to right, #5580a0, #50697d); /* Richer, cooler contrast */
-  color: #e1dada; /* Light text for contrast */
+  background: linear-gradient(to right, #1e2a38, #3a4a5a); 
+  color: #f1f1f1; /* Light text for contrast */
   padding: 20px;
   text-align: center;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-  border-bottom: 2px solid #cebaa2; /* Light separator */
+  border-bottom: 2px solid #32e0c4; /* Light separator */
 }
 
 /* Main Title */
 h1 {
   color: #f5f4f1; /* white */
-  font-family: 'Pacifico';
+  font-family: 'Orbitron', sans-serif;
   font-size: 2.5rem; /* Make it bold and welcoming */
 }
 
 button {
-  background: linear-gradient(135deg, #849089, #e1dada);
-  color: white;
+  background: linear-gradient(135deg, #0d7377, #32e0c4);
+  color: #0f111a;
   padding: 10px 20px;
   margin: 0;
   border: none;
@@ -45,7 +45,8 @@ button {
 }
 
 button:hover {
-  background: linear-gradient(135deg, #e1dada, #849089); /* Reverse gradient */
+  background: linear-gradient(135deg, #32e0c4, #0d7377); 
+  box-shadow: 0 0 10px #32e0c4
 }
 
 html, body {
@@ -58,21 +59,9 @@ html, body {
   box-sizing: border-box;
 }
 
-.project-section {
-  background: linear-gradient(135deg, #4d6a74, #7a9ca1); /* Cool gradient */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 40px 20px;
-  margin: 40px auto;
-  max-width: 500px;
-  border-radius: 20px;
-  text-align: center;
-  color: white;
-}
-
+.project-section, 
 .resume-section {
-  background: linear-gradient(135deg, #4d6a74, #7a9ca1); /* Cool gradient */
+  background: linear-gradient(135deg, #1e2a38, #2f4858); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -81,13 +70,13 @@ html, body {
   max-width: 500px;
   border-radius: 20px;
   text-align: center;
-  color: white;
+  color: #f1f1f1;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 }
 
 .section-title {
   font-size: 2rem;
-  color: #f5f4f1;
+  color: #32e0c4;
   margin: 40px auto 10px auto;
   text-align: center;
   font-weight: bold;
@@ -100,7 +89,7 @@ html, body {
   margin: 20px auto;
   max-width: 1000px;
   padding: 10px 20px;
-  color: #333;
+  color: #bbb;
 }
 
 .welcome-text {
@@ -109,7 +98,7 @@ html, body {
   margin: 20px auto;
   max-width: 1000px;
   padding: 10px 20px;
-  color: #333;
+  color: #bbb;
 }
 
 .main-flex {
