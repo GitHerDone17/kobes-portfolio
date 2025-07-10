@@ -74,6 +74,20 @@ html, body {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 }
 
+.code-section {
+  background: linear-gradient(135deg, #1e2a38, #2f4858); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 40px 20px;
+  margin: 40px auto;
+  max-width: 750px;
+  border-radius: 20px;
+  text-align: center;
+  color: #f1f1f1;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
 .section-title {
   font-size: 2rem;
   color: #32e0c4;
