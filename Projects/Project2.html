@@ -1,1 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Encryption/Decryption Tool</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="https://githerdone17.github.io/kobes-portfolio/assets/css/custom.css" />
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Encryption/Decryption Tool</h1>
+    </header>
+
+    <main>
+      <div class="guide-text">
+        <h3>Overview</h3>
+        <p>
+          We developed an encryption/decryption tool in C. The tool was capable of encrypting text files using a hexadecimal-based algorithm. It generated a <code>.crp</code> file that could then be decrypted using the corresponding decryption tool.
+        </p>
+      </div>
+
+      <div class="guide-text">
+        <h3>My Role</h3>
+        <p>
+          I led the development portion of the team. I wrote all the code that implemented the core functionality, and handled testing for quality assurance.
+        </p>
+      </div>
+
+      <div class="project-section">
+        <h3>Sample Text File &rarr; After Encryption</h3>
+        <p>
+          <a href="https://githerdone17.github.io/kobes-portfolio/Files/Regular_Text.txt" target="_blank">Regular Text</a>
+          &emsp;&emsp;&emsp;&emsp;&emsp;
+          <a href="https://githerdone17.github.io/kobes-portfolio/Files/Encrypted_Text.crp" target="_blank">Encrypted Text</a>
+        </p>
+      </div>
+
+      <div class="project-section">
+        <h3>The Code</h3>
+        <pre style="text-align: left; overflow-x: auto; background-color: #1e2a38; padding: 20px; border-radius: 10px; color: #f1f1f1; font-family: monospace; font-size: 0.85rem;">
+#include &lt;stdio.h&gt;
+#include &lt;string.h&gt;
+#include &lt;stdlib.h&gt;
+
+// ... truncated to fit screen width (paste full code here for production)
+
+int main(int argc, char *argv[]) {
+    if (argc < 2){
+        printf("Cannot process request");
+        exit(1);
+    }
+
+    if(strcmp(argv[1], "-E") == 0) { 
+        printf("Encrypting..."); 
+        Encrypt(argv, 2);
+    } else if(strcmp(argv[1], "-D") == 0) { 
+        printf("Decrypting..."); 
+        Decrypt(argv, 2);
+    } else { 
+        Encrypt(argv, 2);
+        printf("Not specified, encryption is assumed");
+    }
+
+    fclose(in_file);
+    fclose(out_file);
+    return(0);
+}
+        </pre>
+      </div>
+
+      <div class="guide-text">
+        <p>
+          <a href="https://githerdone17.github.io/kobes-portfolio/">&larr; Back to Portfolio</a>
+        </p>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Kobe's Portfolio</p>
+    </footer>
+  </div>
+</body>
+</html>
 
